@@ -1,2 +1,3 @@
 this is file one created for first time. 
-and made first change after "git add" 
+and made first change after "git add"
+to check diff 
